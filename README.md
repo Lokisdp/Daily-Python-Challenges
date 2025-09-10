@@ -18,7 +18,7 @@ I solve **one coding challenge per day** to improve my Python skills, starting f
 | 7   | Caesar Cipher                 | ✅     |
 | 8   | Blind Auction                 | ✅     |
 | 9   | Calculator                    | ✅     |
-| 10  |        |      |
+| 10  | Black Beard                   | ✅     |
 
 
 
