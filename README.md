@@ -9,13 +9,7 @@ I solve **one coding challenge per day** to improve my Python skills, from basic
 
 | Day | Challenge Name | Status |
 |-----|----------------|--------|
-<<<<<<< HEAD
-| 1 | 1 Band Name Generator | ✅ || 2 | 2 Tip Calculator | ✅ || 3 | 3 Treasure Island | ✅ || 4 | 4 Rock Paper Scissors | ✅ || 5 | 5 Password Generator | ✅ || 6 | 6 Hangman | ✅ || 7 | 7 Caesar Cipher | ✅ || 8 | 8 Blind Auction | ✅ || 9 | 9 Calculator | ✅ || 10 | 10 Black Jack | ✅ |
-=======
-| 1 | 1 Band Name Generator | ✅ || 2 | 2 Tip Calculator | ✅ || 3 | 3 Treasure Island | ✅ || 4 | 4 Rock Paper Scissors | ✅ || 5 | 5 Password Generator | ✅ || 6 | 6 Hangman | ✅ || 7 | 7 Caesar Cipher | ✅ || 8 | 8 Blind Auction | ✅ || 9 | 9 Calculator | ✅ || 10 | 10 Black Jack | ✅ || 11 | 11 B J | ✅ || 12 | [Next Challenge Name] | ❌ |
->>>>>>> 1398d02 (Day 11: 11 B J added and README updated)
 
----
 
 ## Folder Structure
 Each folder contains the Python file(s) for that day’s challenge:
